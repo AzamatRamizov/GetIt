@@ -7,13 +7,13 @@ public class IndexController {
     @GetMapping("/")
     public String index(){
 
-        return "index";
+        return "indexx";
     }
 
     @PostMapping("/register")
     public String userRegistration(){
 
 
-        return "index";
+        return "indexx";
     }
 }
